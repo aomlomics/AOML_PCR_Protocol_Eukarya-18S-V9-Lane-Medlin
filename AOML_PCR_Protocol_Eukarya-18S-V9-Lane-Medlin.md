@@ -81,7 +81,7 @@ lib_conc_meth: quantified using Qubit dsDNA HS, Agilent 4200 TapeStation HS DNA1
 seq_method_additional: not applicable
 ---
 
-# NOAA/AOML PCR Protocol 18S rRNA V9 (EMP)
+# NOAA/AOML PCR Protocol 18S rRNA V9 (Lane-Medlin)
 
 ## PROTOCOL INFORMATION
 
