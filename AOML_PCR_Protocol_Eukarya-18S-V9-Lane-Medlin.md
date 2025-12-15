@@ -129,6 +129,7 @@ seq_method_additional: not applicable
 | 1.0.1 | 2024-10-23 | Formatting edits |
 | 1.1.0 | 2024-11-16 | Addition of FAIR eDNA terms in YAML frontmatter |
 | 1.2.0 | 2025-09-18 | Addition of sequencing preparation and Illumina sequencing facility information |
+| 1.2.1 | 2025-12-15 | Updated YAML front matter |
 
 ### Acronyms and Abbreviations
 
