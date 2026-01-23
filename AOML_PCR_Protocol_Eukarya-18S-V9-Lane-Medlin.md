@@ -26,7 +26,7 @@ maturity level: mature
 pcr_0_1: 1
 thermocycler: Eppendorf Mastercycler Nexus Thermal Cycler
 amplificationReactionVolume: 25
-assay_name: ssu18sv9
+assay_name: Eukarya-18S-V9-Lane-Medlin
 assay_validation: not provided
 targetTaxonomicAssay: 18S rRNA gene sequencing targeting the V9 region using primers 1391F and EukBr
 targetTaxonomicScope: Eukaryotes, with a focus on microbial eukaryotic lineages
@@ -99,11 +99,8 @@ pcr2_method_additional: not applicable
 
 | PROTOCOL NAME | LINK  | VERSION | RELEASE DATE|
 | ------------- | ------------- | ------------- | ------------- |
-| NOAA/AOML Water Sampling Protocol using Sterivex with Zirconia Beads  | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_sampling_sterivex_beads.md> | 1.2.0 | 2025-01-08 |
-| NOAA/AOML DNA Extraction Protocol for Sterivex using KingFisher | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_extractdna_sterivex_kingfisher.md> | 1.1.0 | 2024-11-16 |
-| NOAA/AOML PCR Protocol 12S rRNA V5-V6 (MiFish) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_pcr_ssu12sv5v6_mifish.md> | 1.1.0 | 2024-11-16 |
-| NOAA/AOML PCR Protocol 16S rRNA V4-V5 (EMP) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_pcr_ssu16sv4v5_emp.md> | 1.1.0 | 2024-11-16 |
-| NOAA/AOML Metagenome Library Prep Protocol (Illumina DNA Prep) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_libprep_metag_illumina.md> | 1.1.0 | 2024-11-16 |
+| AOML 'Omics Protocols | https://github.com/aomlomics/protocols | not applicable | ongoing |
+| NOAA 'Omics Metabarcoding Assays | https://github.com/NOAA-Omics/noaa-omics-metabarcoding-assays | not applicable | ongoing |
 
 ## RELATED EXTERNAL PROTOCOLS
 
@@ -121,6 +118,7 @@ pcr2_method_additional: not applicable
 | 1.1.0 | 2024-11-16 | Addition of FAIR eDNA terms in YAML frontmatter |
 | 1.2.0 | 2025-09-18 | Addition of sequencing preparation and Illumina sequencing facility information |
 | 1.2.1 | 2025-12-15 | Updated YAML front matter |
+| 1.2.2 | 2026-01-23 | Updated assay name |
 
 ### Acronyms and Abbreviations
 
