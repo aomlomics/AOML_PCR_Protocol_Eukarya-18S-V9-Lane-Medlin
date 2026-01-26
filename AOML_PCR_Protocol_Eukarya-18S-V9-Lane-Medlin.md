@@ -95,14 +95,22 @@ pcr2_method_additional: not applicable
 | Sean Anderson | NOAA/AOML, MSU/NGI | <https://orcid.org/0000-0003-3096-1120> | 2021-02-28 |
 | Sammy Harding | NOAA/AOML, MSU/NGI | <https://orcid.org/0009-0008-8885-6140> | 2024-08-22 |
 
-## RELATED PROTOCOLS
+### Related Protocols
+
+- This section contains protocols that should be known to users of this protocol.
+- Internal Protocols: Derivative or altered protocols, or other protocols in this workflow.
+- External Protocols: Protcols from manufacturers or other groups. 
+- Include the link to each protocol.
+- Include the version number (internal) or access date (external) of the protocol when it was accessed.
+
+#### Internal Protocols
 
 | PROTOCOL NAME | LINK  | VERSION | RELEASE DATE|
 | ------------- | ------------- | ------------- | ------------- |
 | AOML 'Omics Protocols | https://github.com/aomlomics/protocols | not applicable | ongoing |
 | NOAA 'Omics Metabarcoding Assays | https://github.com/NOAA-Omics/noaa-omics-metabarcoding-assays | not applicable | ongoing |
 
-## RELATED EXTERNAL PROTOCOLS
+#### External Protocols
 
 | PROTOCOL NAME | LINK | ISSUER / AUTHOR | ACCESS DATE |
 | ------------ | ------------ | ------------ | ---------- |
