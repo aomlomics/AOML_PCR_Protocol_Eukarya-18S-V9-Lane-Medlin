@@ -18,7 +18,7 @@ language: en
 issued: 2024-08-22
 audience: scientists
 publisher: NOAA Atlantic Oceanographic and Meteorological Laboratory
-hasVersion: 1
+hasVersion: 1.2.3
 license: CC0 1.0 Universal
 maturity level: mature
 
@@ -132,6 +132,7 @@ pcr2_method_additional: not applicable
 | 1.2.0 | 2025-09-18 | Addition of sequencing preparation and Illumina sequencing facility information |
 | 1.2.1 | 2025-12-15 | Updated YAML front matter |
 | 1.2.2 | 2026-01-23 | Updated assay name |
+| 1.2.3 | 2026-04-28 | Updated FAIRe terms order |
 
 ### Acronyms and Abbreviations
 
