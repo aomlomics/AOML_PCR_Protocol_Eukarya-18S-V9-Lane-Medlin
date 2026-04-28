@@ -24,8 +24,9 @@ maturity level: mature
 
 # FAIRe terms
 pcr_0_1: 1
+inhibition_check_0_1: 0
+inhibition_check: not applicable
 thermocycler: Eppendorf Mastercycler Nexus Thermal Cycler
-amplificationReactionVolume: 25
 assay_name: Eukarya-18S-V9-Lane-Medlin
 assay_validation: not provided
 targetTaxonomicAssay: 18S rRNA gene sequencing targeting the V9 region using primers 1391F and EukBr
@@ -43,6 +44,8 @@ pcr_primer_vol_forward: 1.0
 pcr_primer_vol_reverse: 1.0
 pcr_primer_conc_forward: 10
 pcr_primer_conc_reverse: 10
+pcr_dna_vol: 1.0
+amplificationReactionVolume: 25
 probeReporter: not applicable
 probeQuencher: not applicable
 probe_seq: not applicable
@@ -50,7 +53,9 @@ probe_ref: not applicable
 probe_conc: not applicable
 commercial_mm: AmpliTaq Gold 360 Master Mix
 custom_mm: PCR reactions were run in 25 uL reaction volumes, with 1.0 uL of DNA, 12.5 uL of AmpliTaq Gold, 9.5 uL of water, and 1.0 uL of each primer (10 uM).
-pcr_dna_vol: 1.0
+block_seq: not applicable
+block_ref: not applicable
+block_taxa: not applicable
 pcr_rep: 1
 nucl_acid_amp: not provided
 pcr_cond: initial denaturation:95_3;denaturation:95_0.75;annealing:57_1;elongation:72_1.5;final elongation:72_10;35
